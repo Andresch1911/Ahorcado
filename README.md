@@ -1,1 +1,1 @@
-"# Esto es una plantilla" 
+"# Ahorcado" 
