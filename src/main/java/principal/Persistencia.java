@@ -41,8 +41,8 @@ public class Persistencia {
 				br.close();
 			}else {
 				BufferedWriter bw = new BufferedWriter(new FileWriter(FICHEROPALABRAS, Charset.forName("UTF-8")));
-				bw.write("Chupala");
-				datos.add("Chupala");
+				bw.write("javafx");
+				datos.add("javafx");
 				bw.close();		
 			}
 			
